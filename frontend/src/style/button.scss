@@ -1,0 +1,14 @@
+.button{
+    border: none;
+    outline: none;
+    padding-inline: 1.5rem;
+    padding-block: 0.75rem;
+    border-radius: 1rem;
+    background-color: red;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.button:hover{
+    transform: scale(1.05);
+}
